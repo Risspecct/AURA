@@ -68,7 +68,7 @@ docker-compose.override.yml
 # ------------------------------
 # ML / Models
 # ------------------------------
-models/
+ml_models/
 *.pt
 *.pth
 *.h5
